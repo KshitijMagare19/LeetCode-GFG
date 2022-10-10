@@ -38,7 +38,7 @@ class Solution {
         
         TreeSet<Integer> set = new TreeSet<>();
         for(int i : arr) set.add(i);
-        if(set.size() == 0) return -1;
+        //if(set.size() == 0) return -1;
         set.pollLast();
         if(set.size() == 0) return -1;
         if (set.last() == null) return -1;
