@@ -1,5 +1,5 @@
 # LeetCode & GeeksForGeek
-Link LC: 🔗 [LeetCode kshitijmagare19](https://leetcode.com/kshitijmagare19/) .
+Link LC: 🔗 [LeetCode kshitijmagare19](https://leetcode.com/kshitijmagare19/) .\n
 Link GFG: 🔗 [GeeksForGeek kshitijmagare19](https://auth.geeksforgeeks.org/user/kshitijmagare19) .
   
 
