@@ -1,24 +1,21 @@
 class Solution {
     public String reverseVowels(String s) {
-        String v = "";
-        String r = "";
-        String ans = "";
-        String vv="aeiouAEIOU";
-        for(int i = 0; i < s.length(); i++){
-            if(vv.contains(Character.toString(s.charAt(i)))) v+=s.charAt(i);
-        }
-        for(int i = v.length()-1; i >=0 ; i--){
-            r+=v.charAt(i);
-        }
-        int k = 0;
-        for(int i = 0; i < s.length(); i++){
-            if(vv.contains(Character.toString(s.charAt(i)))){
-               ans+=r.charAt(k++); 
-            } 
-            else{
-                ans+=s.charAt(i);
+        Set<Character> set = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'));
+        char[] arr = s.toCharArray();
+        int left = 0, right = arr.length - 1;
+        while (left < right) {
+            if (!set.contains(arr[left])) {
+                left++;
+            } else if (!set.contains(arr[right])) {
+                right--;
+            } else {
+                char tmp = arr[left];
+                arr[left] = arr[right];
+                arr[right] = tmp;
+                left++;
+                right--;
             }
         }
-        return ans;
+        return new String(arr);
     }
 }
