@@ -28,12 +28,11 @@ class GFG {
 class Solution {
     int minOperation(String s) {
         // code here
-        int n = s.length();
-        // run a loop from half String
-        for (int i = n / 2 - 1; i >= 0; --i)
-        // check is string same or not
-            if (s.substring(0, i + 1).equals(s.substring(i + 1, 2 * (i + 1))))
-                return (i + 1) + 1 + (n - 2 * (i + 1));
-        return n;
+        int ans=s.length();
+        char[] c=s.toCharArray();
+        for(int i=0;i<s.length()/2;i++) {
+           if(s.substring(0,i+1).equals(s.substring(i+1,i+i+2)))ans = s.length()-i;
+        }
+        return ans;
     }
 }
