@@ -18,10 +18,7 @@ class Solution {
         long ans = Long.MIN_VALUE;
         ans = Math.max(ans,arr[0]*arr[1]*arr[n-1]);
         ans = Math.max(ans,arr[n-3]*arr[n-2]*arr[n-1]);
-        ans = Math.max(ans,arr[0]*arr[1]*arr[n-1]);
-        ans = Math.max(ans,arr[0]*arr[1]*arr[n-1]);
-        ans = Math.max(ans,arr[0]*arr[1]*arr[n-1]);
-        ans = Math.max(ans,arr[0]*arr[1]*arr[n-1]);
+        
         return ans;
     }
 }
