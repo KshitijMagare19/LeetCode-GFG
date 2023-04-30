@@ -1,6 +1,6 @@
 class Solution {
-    public boolean squareIsWhite(String coordinates) {
-        TreeMap<String,Boolean> map = new TreeMap<>();
+    public boolean squareIsWhite(String a) {
+        /*TreeMap<String,Boolean> map = new TreeMap<>();
         char a = 'a';
         char n = '1';
         for(int i = 0; i < 8; i+=2){
@@ -29,6 +29,7 @@ class Solution {
             n = '1';
         }
         //System.out.println(map);
-        return map.get(coordinates);
+        return map.get(coordinates);*/
+        return a.charAt(0) % 2 != a.charAt(1) % 2; 
     }
 }
