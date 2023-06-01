@@ -5,9 +5,7 @@ class Solution {
             len--;
             i--;
         }
-        String ans = "";
-        for(int j = 0; j < len; j++) ans+=num.charAt(j);
-        return ans;
+        return num.substring(0,len);
     }
     
 }
