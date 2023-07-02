@@ -1,20 +1,28 @@
 class Solution {
-    public int findTargetSumWays(int[] nums, int s) {
-        int sum = 0; 
-        for(int i: nums) sum+=i;
-        if(s>sum || s<-sum) return 0;
-        int[] dp = new int[2*sum+1];
-        dp[0+sum] = 1;
-        for(int i = 0; i<nums.length; i++){
-            int[] next = new int[2*sum+1];
-            for(int k = 0; k<2*sum+1; k++){
-                if(dp[k]!=0){
-                    next[k + nums[i]] += dp[k];
-                    next[k - nums[i]] += dp[k];
+    public int findTargetSumWays(int[] nums, int target) {
+        int sum = 0;
+        for(int i : nums) sum+=i;
+        if((sum + target)%2 == 1) return 0;
+        int s1 = (sum + target)/2;
+        if(s1<0) return 0;
+        int n = nums.length;
+        int[][] dp = new int[n+1][s1+1];
+        for(int i = 0; i < n+1; i++){
+            for(int j = 0; j < s1+1; j++){
+                if(i == 0) dp[i][j] = 0;
+                if(j == 0) dp[i][j] = 1;
+            }
+        }
+        for(int i = 1; i < n+1; i++){
+            for(int j = 0; j < s1+1; j++){
+                if(nums[i-1] <= j){
+                    dp[i][j] = dp[i-1][j-nums[i-1]]+dp[i-1][j];
+                }
+                else{
+                    dp[i][j] = dp[i-1][j];
                 }
             }
-            dp = next;
         }
-        return dp[sum+s];
+        return dp[n][s1];
     }
 }
