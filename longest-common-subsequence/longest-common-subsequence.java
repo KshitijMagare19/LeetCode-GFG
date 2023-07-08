@@ -1,6 +1,8 @@
 class Solution {
-    int[][] dp = new int[1001][1001];
-    public int lcs(String x, String y, int n, int m){
+    public int longestCommonSubsequence(String x, String y) {
+        int[][] dp = new int[1001][1001];
+        int n = x.length();
+        int m = y.length();
         for(int i = 0; i < n+1; i++){
             for(int j = 0; j <m+1; j++){
                 if(n == 0 || m == 0) dp[i][j] = 0;
@@ -16,9 +18,6 @@ class Solution {
                 }
             }
         }
-        return dp[n][m];  
-    }
-    public int longestCommonSubsequence(String x, String y) {
-        return lcs(x,y,x.length(),y.length());
+        return dp[n][m];
     }
 }
