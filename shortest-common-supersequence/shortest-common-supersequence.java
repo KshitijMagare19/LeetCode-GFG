@@ -1,5 +1,6 @@
 class Solution {
-    public String lcs(String x, String y, int n, int m){
+    public String shortestCommonSupersequence(String x, String y) {
+        int n = x.length(), m = y.length();
         int dp[][] = new int[n+1][m+1];
         for(int i = 0 ; i < n+1; i++){
             for(int j = 0; j < m+1; j++){
@@ -44,10 +45,5 @@ class Solution {
             revAns+=ans.charAt(k);
         }
         return revAns;
-    }
-    public String shortestCommonSupersequence(String str1, String str2) {
-        String LCS = lcs(str1,str2,str1.length(), str2.length());
-
-        return LCS;
     }
 }
