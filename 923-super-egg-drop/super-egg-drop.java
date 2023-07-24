@@ -1,9 +1,7 @@
 class Solution {
     int[][] dp = new int[101][100001];
     public int solve(int e, int f){
-        if(f == 0 || f == 1) 
-            return f;
-        if(e == 1)
+        if(f == 0 || f == 1 || e == 1) 
             return f;
         if(dp[e][f] != -1) 
             return dp[e][f];
