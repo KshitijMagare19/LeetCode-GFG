@@ -4,7 +4,7 @@ class Solution {
         if( n == 1 || n == 0) return n;
         if( n == 2 ) return 1;
         int[] nums = new int[n+1];
-        nums[0] = 0;
+       // nums[0] = 0;
         nums[1] = 1;
         int ans = 0;
         for(int i = 1; 2*i < n; i++){
