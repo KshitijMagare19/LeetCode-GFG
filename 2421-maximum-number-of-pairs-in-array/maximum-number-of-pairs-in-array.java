@@ -1,18 +1,20 @@
 class Solution {
     public int[] numberOfPairs(int[] nums) {
-        int[] ans = new int[2];
-        int pair = 0;
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(int i : nums) arr.add(i);
+        if(nums.length == 1)
+        return new int[]{0,1};
+        
+        HashSet<Integer> set = new HashSet<>();
+        
+        int pairs=0;
         for(int i : nums){
-            if(arr.indexOf(i) != arr.lastIndexOf(i)){
-                arr.remove(Integer.valueOf(i));
-                arr.remove(Integer.valueOf(i));
-                pair++;
+            if(!set.contains(i)){
+               set.add(i);            // No pair present 
+            }else{
+              set.remove(i);          // Pair found 
+              pairs++;                                              
             }
         }
-        ans[0] = pair;
-        ans[1] = arr.size();
-        return ans;
+        
+        return new int[]{pairs,set.size()};
     }
 }
