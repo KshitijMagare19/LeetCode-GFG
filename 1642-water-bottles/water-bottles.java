@@ -5,7 +5,7 @@ class Solution {
         while(numBottles>=numExchange){
             int x = numBottles/numExchange;
             count+=x;
-            numBottles = x + (numBottles - numExchange*x);
+            numBottles = x + (numBottles%numExchange);
         }
         
         return count;
