@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor">2519. Find The Original Array of Prefix Xor</a></h2><h3>Medium</h3><hr><p>You are given an <strong>integer</strong> array <code>pref</code> of size <code>n</code>. Find and return <em>the array </em><code>arr</code><em> of size </em><code>n</code><em> that satisfies</em>:</p>
+<h2><a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor">Find The Original Array of Prefix Xor</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <strong>integer</strong> array <code>pref</code> of size <code>n</code>. Find and return <em>the array </em><code>arr</code><em> of size </em><code>n</code><em> that satisfies</em>:</p>
 
 <ul>
 	<li><code>pref[i] = arr[0] ^ arr[1] ^ ... ^ arr[i]</code>.</li>
