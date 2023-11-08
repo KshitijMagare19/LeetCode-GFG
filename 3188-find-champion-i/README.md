@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-champion-i">3188. Find Champion I</a></h2><h3>Easy</h3><hr><p>There are <code>n</code> teams numbered from <code>0</code> to <code>n - 1</code> in a tournament.</p>
+<h2><a href="https://leetcode.com/problems/find-champion-i">Find Champion I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There are <code>n</code> teams numbered from <code>0</code> to <code>n - 1</code> in a tournament.</p>
 
 <p>Given a <strong>0-indexed</strong> 2D boolean matrix <code>grid</code> of size <code>n * n</code>. For all <code>i, j</code> that <code>0 &lt;= i, j &lt;= n - 1</code> and <code>i != j</code> team <code>i</code> is <strong>stronger</strong> than team <code>j</code> if <code>grid[i][j] == 1</code>, otherwise, team <code>j</code> is <strong>stronger</strong> than team <code>i</code>.</p>
 
