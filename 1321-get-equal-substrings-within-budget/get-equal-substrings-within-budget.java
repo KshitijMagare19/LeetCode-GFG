@@ -1,31 +1,17 @@
-
 class Solution {
     public int equalSubstring(String s, String t, int maxCost) {
-        // Convert the problem into a min subarray problem
-        int[] diff = new int[s.length()];
-        for(int i = 0; i < s.length(); ++i) {
-            int asciiS = s.charAt(i);
-            int asciiT = t.charAt(i);
-            diff[i] = Math.abs(asciiS - asciiT);
+        int[] arr = new int[s.length()];
+        char[] ch = s.toCharArray(), target = t.toCharArray();
+        for(int i = 0; i < arr.length; i++) {
+            arr[i] = Math.abs(ch[i] - target[i]);
         }
-        
-        // Now find the longest subarray <= maxCost
-        // all diff[i] >= 0 (non-negative)
-        
-        // Use sliding window?
-        int maxLen = 0;
-        int curCost = 0;
-        int start = 0;
-        
-        for(int end = 0; end < diff.length; ++end) {
-            curCost += diff[end];
-            while(curCost > maxCost) {
-                curCost -= diff[start];
-                ++start;
-            }
-            maxLen = Math.max(maxLen, end - start + 1);
+        int cost = 0, start = 0, end = 0, ans = 0;
+
+        while(start < arr.length && end < arr.length) {
+            cost += arr[end++];
+            if(cost <= maxCost) ans = Math.max(ans, end - start);
+            else while(cost > maxCost) cost -= arr[start++];
         }
-        
-        return maxLen;
+        return ans;
     }
 }
