@@ -6,3 +6,9 @@ Link GFG: 🔗 [GeeksForGeek kshitijmagare19](https://auth.geeksforgeeks.org/use
   
 
 Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - Created using [ LeetHub ]
+
+
+# String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3379-score-of-a-string) |
