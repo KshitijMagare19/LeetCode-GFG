@@ -20,6 +20,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -40,6 +41,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0648-replace-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -49,6 +51,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1217-relative-sort-array) |
