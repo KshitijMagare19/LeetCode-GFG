@@ -11,7 +11,7 @@ class Solution {
             map.put(key, best);
         }
         for (int i = 0; i < worker.length; i++) {
-            res += map.floorEntry(worker[i]).getValue();
+            res += map.get(map.floorKey(worker[i]));//.getValue();
         }
         return res;
     }
