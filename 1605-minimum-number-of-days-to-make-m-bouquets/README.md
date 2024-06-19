@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets">1605. Minimum Number of Days to Make m Bouquets</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>bloomDay</code>, an integer <code>m</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets">Minimum Number of Days to Make m Bouquets</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>bloomDay</code>, an integer <code>m</code> and an integer <code>k</code>.</p>
 
 <p>You want to make <code>m</code> bouquets. To make a bouquet, you need to use <code>k</code> <strong>adjacent flowers</strong> from the garden.</p>
 
