@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips">1037. Minimum Number of K Consecutive Bit Flips</a></h2><h3>Hard</h3><hr><p>You are given a binary array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips">Minimum Number of K Consecutive Bit Flips</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a binary array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>A <strong>k-bit flip</strong> is choosing a <strong>subarray</strong> of length <code>k</code> from <code>nums</code> and simultaneously changing every <code>0</code> in the subarray to <code>1</code>, and every <code>1</code> in the subarray to <code>0</code>.</p>
 
