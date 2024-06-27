@@ -144,3 +144,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1916-find-center-of-star-graph) |
