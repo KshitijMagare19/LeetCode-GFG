@@ -157,6 +157,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -166,4 +167,16 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
