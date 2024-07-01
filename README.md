@@ -184,4 +184,8 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
