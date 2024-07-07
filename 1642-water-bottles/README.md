@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/water-bottles">Water Bottles</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There are <code>numBottles</code> water bottles that are initially full of water. You can exchange <code>numExchange</code> empty water bottles from the market with one full water bottle.</p>
+<h2><a href="https://leetcode.com/problems/water-bottles">1642. Water Bottles</a></h2><h3>Easy</h3><hr><p>There are <code>numBottles</code> water bottles that are initially full of water. You can exchange <code>numExchange</code> empty water bottles from the market with one full water bottle.</p>
 
 <p>The operation of drinking a full water bottle turns it into an empty bottle.</p>
 
