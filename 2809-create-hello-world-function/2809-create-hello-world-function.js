@@ -3,8 +3,8 @@
  */
 var createHelloWorld = function() {
     return function(...args) {
-        var a = "Hello World";
-        return a;
+        // var a = ;
+        return "Hello World";
     }
 };
 
