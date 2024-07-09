@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/average-waiting-time">1803. Average Waiting Time</a></h2><h3>Medium</h3><hr><p>There is a restaurant with a single chef. You are given an array <code>customers</code>, where <code>customers[i] = [arrival<sub>i</sub>, time<sub>i</sub>]:</code></p>
+<h2><a href="https://leetcode.com/problems/average-waiting-time">Average Waiting Time</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is a restaurant with a single chef. You are given an array <code>customers</code>, where <code>customers[i] = [arrival<sub>i</sub>, time<sub>i</sub>]:</code></p>
 
 <ul>
 	<li><code>arrival<sub>i</sub></code> is the arrival time of the <code>i<sup>th</sup></code> customer. The arrival times are sorted in <strong>non-decreasing</strong> order.</li>
