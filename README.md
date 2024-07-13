@@ -168,6 +168,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -248,4 +251,5 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
