@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs">1653. Number of Good Leaf Nodes Pairs</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary tree and an integer <code>distance</code>. A pair of two different <strong>leaf</strong> nodes of a binary tree is said to be good if the length of <strong>the shortest path</strong> between them is less than or equal to <code>distance</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs">Number of Good Leaf Nodes Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the <code>root</code> of a binary tree and an integer <code>distance</code>. A pair of two different <strong>leaf</strong> nodes of a binary tree is said to be good if the length of <strong>the shortest path</strong> between them is less than or equal to <code>distance</code>.</p>
 
 <p>Return <em>the number of good leaf node pairs</em> in the tree.</p>
 
