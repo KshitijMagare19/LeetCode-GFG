@@ -18,7 +18,6 @@ class Solution {
             map.put(heights[i],names[i]);
         }
         int j = names.length - 1 ;
-        System.out.println(map);
         for (Map.Entry<Integer,String> entry : map.entrySet()){
 
             ans[j--] = entry.getValue(); 
