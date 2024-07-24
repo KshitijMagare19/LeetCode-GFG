@@ -169,6 +169,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
@@ -202,6 +203,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
