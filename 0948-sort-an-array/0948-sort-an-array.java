@@ -1,31 +1,22 @@
 class Solution {
     public int[] sortArray(int[] nums) {
         if (nums == null || nums.length <= 1) return nums;
+        int[] ans = new int[nums.length];
         
-        int max = nums[0], min = nums[0];
-        for (int num : nums) {
-            if (num > max) max = num;
-            if (num < min) min = num;
-        }
-        
-        int range = max - min + 1;
-        int[] count = new int[range];
-        
-        for (int num : nums) {
-            count[num - min]++;
-        }
+        TreeMap<Integer,Integer> map = new TreeMap<>();
+        for(int i : nums) map.put(i,map.getOrDefault(i,0)+1);
+        // System.out.println(map);
         
         int index = 0;
-        for (int i = 0; i < range; i++) {
-            int freq = count[i];
-            if (freq > 0) {
-                int value = i + min;
-                while (freq-- > 0) {
-                    nums[index++] = value;
-                }
+         for (Map.Entry<Integer,Integer> entry : map.entrySet()) {
+            int freq = entry.getValue();
+            while(freq-->0){
+                ans[index++] = entry.getKey();
+                // map.put(entry.getKey(),map.get(entry.getKey())-1);
+                
             }
-        }
+         }
         
-        return nums;
+        return ans;
     }
 }
