@@ -173,6 +173,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
@@ -212,6 +213,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
@@ -230,6 +232,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2502-sort-the-people) |
