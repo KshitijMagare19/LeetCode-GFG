@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-distinct-string-in-an-array">2163. Kth Distinct String in an Array</a></h2><h3>Easy</h3><hr><p>A <strong>distinct string</strong> is a string that is present only <strong>once</strong> in an array.</p>
+<h2><a href="https://leetcode.com/problems/kth-distinct-string-in-an-array">Kth Distinct String in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>distinct string</strong> is a string that is present only <strong>once</strong> in an array.</p>
 
 <p>Given an array of strings <code>arr</code>, and an integer <code>k</code>, return <em>the </em><code>k<sup>th</sup></code><em> <strong>distinct string</strong> present in </em><code>arr</code>. If there are <strong>fewer</strong> than <code>k</code> distinct strings, return <em>an <strong>empty string </strong></em><code>&quot;&quot;</code>.</p>
 
