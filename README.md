@@ -212,6 +212,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
@@ -373,4 +374,8 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
