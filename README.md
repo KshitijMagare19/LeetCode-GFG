@@ -187,6 +187,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -245,6 +246,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
@@ -281,6 +283,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -362,6 +365,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1511-count-number-of-teams) |
