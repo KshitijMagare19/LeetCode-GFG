@@ -40,7 +40,6 @@ class Solution {
             }
         }
         if(n!=1){
-            
             ans+=n;
         }
         return ans;
