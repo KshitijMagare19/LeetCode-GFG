@@ -22,15 +22,28 @@ class Solution {
     }
     public int minSteps(int n) {
         //bottom up DP
-        if(n == 1)  return 0;
+        // if(n == 1)  return 0;
 
-        for(int[] i :dp){
-            Arrays.fill(i,-1);
+        // for(int[] i :dp){
+        //     Arrays.fill(i,-1);
+        // }
+
+        // return 1 + solve(1,1,n);
+        int ans=0;
+        if(n == 1) return 0;
+        for (int i=2;i*i<=n;){
+            if(n%i==0){
+                 ans+=i;
+                n/=i; 
+            }else{
+              i++;
+            }
         }
-
-        return 1 + solve(1,1,n);
-
-
+        if(n!=1){
+            
+            ans+=n;
+        }
+        return ans;
     }
 }
-//27
+
