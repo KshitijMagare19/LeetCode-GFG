@@ -222,6 +222,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -286,6 +287,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2645-pass-the-pillow) |
@@ -369,6 +371,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -390,4 +393,12 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
