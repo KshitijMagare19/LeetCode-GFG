@@ -403,4 +403,8 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
