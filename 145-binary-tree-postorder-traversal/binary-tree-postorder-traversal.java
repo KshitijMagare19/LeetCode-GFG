@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
-public List<Integer> solve(TreeNode root,List<Integer> list){
-    if(root == null) return list;
+     private List<Integer> answer = new ArrayList<>();
 
-    solve(root.left,list);
-    solve(root.right,list);
-    list.add(root.val);
-
-    return list;
-
-}
-
+    private void dfs(TreeNode node) {
+        if (node == null) {
+            return;
+        }
+        // Visit the root first, then the left subtree, then the right subtree.
+        dfs(node.left);
+        dfs(node.right);
+        answer.add(node.val);
+    }
+    
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>(); 
-
-        return solve(root,list);
+        dfs(root);
+        return answer;
     }
 }
