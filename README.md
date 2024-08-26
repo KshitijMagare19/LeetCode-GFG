@@ -195,6 +195,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -329,6 +330,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -339,6 +341,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
