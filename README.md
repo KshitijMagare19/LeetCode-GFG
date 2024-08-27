@@ -163,6 +163,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -189,6 +190,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -227,6 +229,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1511-count-number-of-teams) |
@@ -397,6 +400,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
