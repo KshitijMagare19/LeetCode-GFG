@@ -201,12 +201,14 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 ## Topological Sort
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -362,6 +366,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
