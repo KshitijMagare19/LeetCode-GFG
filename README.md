@@ -324,6 +324,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2645-pass-the-pillow) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2727-number-of-senior-citizens](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
