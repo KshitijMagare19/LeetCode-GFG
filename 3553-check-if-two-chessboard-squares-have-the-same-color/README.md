@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color">3553. Check if Two Chessboard Squares Have the Same Color</a></h2><h3>Easy</h3><hr><p>You are given two strings, <code>coordinate1</code> and <code>coordinate2</code>, representing the coordinates of a square on an <code>8 x 8</code> chessboard.</p>
+<h2><a href="https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color">Check if Two Chessboard Squares Have the Same Color</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two strings, <code>coordinate1</code> and <code>coordinate2</code>, representing the coordinates of a square on an <code>8 x 8</code> chessboard.</p>
 
 <p>Below is the chessboard for reference.</p>
 
