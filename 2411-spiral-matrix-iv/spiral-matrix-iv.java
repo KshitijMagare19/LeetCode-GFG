@@ -1,68 +1,43 @@
 class Solution {
-    public int[][] spiralMatrix(int m, int n, ListNode head) {
-        int[][] ans=new int[m][n];
-        for(int[] arr:ans){
-            Arrays.fill(arr,-1);
+    public int[][] spiralMatrix(int rows, int columns, ListNode head) {
+        int[][] matrix = new int[rows][];
+        for (int i = 0; i < rows; i++) {
+            matrix[i] = new int [columns];
+            Arrays.fill(matrix[i], -1);
         }
+
+        int topRow = 0, bottomRow = rows - 1, leftColumn = 0, rightColumn = columns - 1;
+        while (head != null) {
         
-        int rowBegin=0;
-        int rowEnd=m-1;
-        int columnBegin=0;
-        int columnEnd=n-1;
-        ListNode cur=head;
+            for (int col = leftColumn; col <= rightColumn && head != null; col++) {
+                matrix[topRow][col] = head.val;
+                head = head.next;
+            }
+            topRow++;
+
         
-      
-        while(rowBegin<=rowEnd && columnBegin<=columnEnd && cur!=null){
-            
-            for(int i=columnBegin;i<=columnEnd && cur!=null;i++){
-                if(cur!=null){
-                    ans[rowBegin][i]=cur.val;
-                }
-               
-                    cur=cur.next;
-                
-                
+            for (int row = topRow; row <= bottomRow && head != null; row++) {
+                matrix[row][rightColumn] = head.val;
+                head = head.next;
             }
-            rowBegin++;
-            for(int i=rowBegin;i<=rowEnd && cur!=null;i++){
-               if(cur!=null){
-                ans[i][columnEnd]=cur.val;
-               }
-                
-                    cur=cur.next;
-                
+            rightColumn--;
 
+ 
+            for (int col = rightColumn; col >= leftColumn && head != null; col--) {
+                matrix[bottomRow][col] = head.val;
+                head = head.next;
             }
-            columnEnd--;
-            if(rowBegin<=rowEnd){
-                for(int i=columnEnd;i>=columnBegin && cur!=null;i--){
-                if(cur!=null){
-                ans[rowEnd][i]=cur.val;
-                }
-                 
-                    cur=cur.next;
-                
+            bottomRow--;
 
+       
+            for (int row = bottomRow; row >= topRow && head != null; row--) {
+                matrix[row][leftColumn] = head.val;
+                head = head.next;
             }
-           
-            }
-             rowEnd--;
-            if(columnBegin<=columnEnd){
-                for(int i=rowEnd;i>=rowBegin && cur!=null;i--){
-                  if(cur!=null){
-                ans[i][columnBegin]=cur.val;
-                  }
-                 
-                    cur=cur.next;
-                
-
-            }
-            
-            }
-            columnBegin++;
-           
+            leftColumn++;
         }
-        return ans;
+
+        return matrix;
         
     }
 }
