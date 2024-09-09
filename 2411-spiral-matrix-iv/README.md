@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/spiral-matrix-iv">2411. Spiral Matrix IV</a></h2><h3>Medium</h3><hr><p>You are given two integers <code>m</code> and <code>n</code>, which represent the dimensions of a matrix.</p>
+<h2><a href="https://leetcode.com/problems/spiral-matrix-iv">Spiral Matrix IV</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two integers <code>m</code> and <code>n</code>, which represent the dimensions of a matrix.</p>
 
 <p>You are also given the <code>head</code> of a linked list of integers.</p>
 
