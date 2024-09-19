@@ -328,6 +328,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
@@ -344,6 +345,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -353,6 +355,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0564-find-the-closest-palindrome) |
@@ -442,6 +445,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0664-strange-printer) |
@@ -499,4 +503,8 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
