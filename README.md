@@ -234,6 +234,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0539-minimum-time-difference](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
@@ -305,6 +306,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
@@ -491,6 +493,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -545,12 +548,15 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
