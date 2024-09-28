@@ -235,6 +235,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0624-maximum-distance-in-arrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
@@ -313,6 +314,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -361,6 +363,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -549,6 +552,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
