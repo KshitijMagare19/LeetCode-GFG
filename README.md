@@ -178,6 +178,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0539-minimum-time-difference](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -242,6 +243,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
@@ -289,6 +291,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
