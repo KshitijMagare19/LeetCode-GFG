@@ -161,6 +161,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1818-maximum-score-from-removing-substrings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -187,6 +188,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
@@ -199,6 +201,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
@@ -280,6 +283,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2306-create-binary-tree-from-descriptions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -325,6 +329,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -541,6 +546,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1603-running-sum-of-1d-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
