@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations">2616. Maximal Score After Applying K Operations</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>. You have a <strong>starting score</strong> of <code>0</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations">Maximal Score After Applying K Operations</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>. You have a <strong>starting score</strong> of <code>0</code>.</p>
 
 <p>In one <strong>operation</strong>:</p>
 
