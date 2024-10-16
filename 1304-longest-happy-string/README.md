@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-happy-string">1304. Longest Happy String</a></h2><h3>Medium</h3><hr><p>A string <code>s</code> is called <strong>happy</strong> if it satisfies the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/longest-happy-string">Longest Happy String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A string <code>s</code> is called <strong>happy</strong> if it satisfies the following conditions:</p>
 
 <ul>
 	<li><code>s</code> only contains the letters <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code>.</li>
