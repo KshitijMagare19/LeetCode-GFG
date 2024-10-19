@@ -371,6 +371,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0592-fraction-addition-and-subtraction](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -405,6 +406,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -428,6 +430,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
