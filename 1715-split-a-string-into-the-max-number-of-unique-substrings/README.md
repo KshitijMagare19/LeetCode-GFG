@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings">1715. Split a String Into the Max Number of Unique Substrings</a></h2><h3>Medium</h3><hr><p>Given a string&nbsp;<code>s</code><var>,</var>&nbsp;return <em>the maximum&nbsp;number of unique substrings that the given string can be split into</em>.</p>
+<h2><a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings">Split a String Into the Max Number of Unique Substrings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string&nbsp;<code>s</code><var>,</var>&nbsp;return <em>the maximum&nbsp;number of unique substrings that the given string can be split into</em>.</p>
 
 <p>You can split string&nbsp;<code>s</code> into any list of&nbsp;<strong>non-empty substrings</strong>, where the concatenation of the substrings forms the original string.&nbsp;However, you must split the substrings such that all of them are <strong>unique</strong>.</p>
 
