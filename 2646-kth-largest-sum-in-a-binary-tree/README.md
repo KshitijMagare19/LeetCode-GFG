@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree">2646. Kth Largest Sum in a Binary Tree</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary tree and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree">Kth Largest Sum in a Binary Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the <code>root</code> of a binary tree and a positive integer <code>k</code>.</p>
 
 <p>The <strong>level sum</strong> in the tree is the sum of the values of the nodes that are on the <strong>same</strong> level.</p>
 
