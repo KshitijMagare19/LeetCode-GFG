@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array">1766. Minimum Number of Removals to Make Mountain Array</a></h2><h3>Hard</h3><hr><p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array">Minimum Number of Removals to Make Mountain Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>
 
 <ul>
 	<li><code>arr.length &gt;= 3</code></li>
