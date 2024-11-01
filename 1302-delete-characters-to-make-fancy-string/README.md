@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string">1302. Delete Characters to Make Fancy String</a></h2><h3>Easy</h3><hr><p>A <strong>fancy string</strong> is a string where no <strong>three</strong> <strong>consecutive</strong> characters are equal.</p>
+<h2><a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string">Delete Characters to Make Fancy String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>fancy string</strong> is a string where no <strong>three</strong> <strong>consecutive</strong> characters are equal.</p>
 
 <p>Given a string <code>s</code>, delete the <strong>minimum</strong> possible number of characters from <code>s</code> to make it <strong>fancy</strong>.</p>
 
