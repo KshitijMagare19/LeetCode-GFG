@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/circular-sentence">2580. Circular Sentence</a></h2><h3>Easy</h3><hr><p>A <strong>sentence</strong> is a list of words that are separated by a<strong> single</strong> space with no leading or trailing spaces.</p>
+<h2><a href="https://leetcode.com/problems/circular-sentence">Circular Sentence</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>sentence</strong> is a list of words that are separated by a<strong> single</strong> space with no leading or trailing spaces.</p>
 
 <ul>
 	<li>For example, <code>&quot;Hello World&quot;</code>, <code>&quot;HELLO&quot;</code>, <code>&quot;hello world hello world&quot;</code> are all sentences.</li>
