@@ -211,6 +211,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
@@ -267,6 +268,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
@@ -383,6 +385,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -452,6 +455,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -615,6 +619,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0567-permutation-in-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -627,6 +632,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -719,4 +725,8 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
