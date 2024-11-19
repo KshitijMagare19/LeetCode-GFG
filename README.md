@@ -295,6 +295,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1923-sentence-similarity-iii) |
@@ -622,6 +623,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0567-permutation-in-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
