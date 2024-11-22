@@ -273,6 +273,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1256-rank-transform-of-an-array) |
@@ -349,6 +350,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0906-walking-robot-simulation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -555,6 +557,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
