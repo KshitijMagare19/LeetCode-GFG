@@ -240,6 +240,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
@@ -267,6 +268,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -560,6 +562,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
