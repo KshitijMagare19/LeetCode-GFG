@@ -180,6 +180,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
