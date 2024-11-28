@@ -177,6 +177,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
@@ -219,6 +220,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1304-longest-happy-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -247,6 +249,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -324,6 +327,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2306-create-binary-tree-from-descriptions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -577,6 +581,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2089-maximum-matrix-sum](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -630,6 +635,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
