@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation">2891. Maximum Beauty of an Array After Applying Operation</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> and a <strong>non-negative</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation">Maximum Beauty of an Array After Applying Operation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> and a <strong>non-negative</strong> integer <code>k</code>.</p>
 
 <p>In one operation, you can do the following:</p>
 
