@@ -1,14 +1,19 @@
 class Solution {
-
-    public int[] getFinalState(int[] nums, int k, int multiplier) {
-        ArrayList<Integer> list = new ArrayList<Integer>();
-        for(int i : nums) list.add(i);
-
-        while(k-->0){
-            list.set(list.indexOf( Collections.min(list)),Collections.min(list)*multiplier);
+    public int[] getFinalState(int[] arr, int k, int multiplier) {
+        int ans[]=new int[arr.length];
+        while(k>0)
+        {
+            int x=0;
+            for(int i=1;i<arr.length;i++)
+            {
+                if(arr[i]<arr[x])
+                {
+                    x=i;
+                }
+            }
+            arr[x]=arr[x]*multiplier;
+k--;
         }
-        
-        return list.stream().mapToInt(i -> i).toArray();
-
+        return arr;
     }
 }
