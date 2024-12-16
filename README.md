@@ -235,6 +235,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -480,6 +482,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -499,6 +502,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2716-prime-subtraction-operation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
