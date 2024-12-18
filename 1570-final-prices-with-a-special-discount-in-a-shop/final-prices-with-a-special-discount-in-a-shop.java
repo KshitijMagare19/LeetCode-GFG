@@ -1,22 +1,19 @@
-class Solution 
-{
-    public int[] finalPrices(int[] prices)
-    {
-        int n= prices.length;
-        int[] arr=new int[n];
-        ArrayDeque<Integer> stack=new ArrayDeque<>();
-        stack.push(prices[n-1]);
-        arr[n-1]=prices[n-1];
-        for (int i = n-2; i >= 0;i--)
-        {
-            while (!stack.isEmpty() && stack.peek()>prices[i])
-                stack.pop();
-            if (stack.isEmpty())
-                arr[i]=prices[i];
-            else
-                arr[i]=prices[i]-stack.peek();
-            stack.push(prices[i]);
+class Solution {
+    public int[] finalPrices(int[] prices) {
+        for (int i = 0; i < prices.length - 1; i++) {
+            int discount = findDiscountOfIndex(i, prices);
+            prices[i] = prices[i] - discount;
         }
-        return arr;
+
+        return prices;
+    }
+
+    private static int findDiscountOfIndex(int i, int[] prices) {
+        for (int j = i + 1; j < prices.length; j++) {
+            if (prices[j] <= prices[i]) {
+                return prices[j];
+            }
+        }
+        return 0;
     }
 }
