@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop">1570. Final Prices With a Special Discount in a Shop</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of the <code>i<sup>th</sup></code> item in a shop.</p>
+<h2><a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop">Final Prices With a Special Discount in a Shop</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of the <code>i<sup>th</sup></code> item in a shop.</p>
 
 <p>There is a special discount for items in the shop. If you buy the <code>i<sup>th</sup></code> item, then you will receive a discount equivalent to <code>prices[j]</code> where <code>j</code> is the minimum index such that <code>j &gt; i</code> and <code>prices[j] &lt;= prices[i]</code>. Otherwise, you will not receive any discount at all.</p>
 
