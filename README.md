@@ -698,6 +698,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
