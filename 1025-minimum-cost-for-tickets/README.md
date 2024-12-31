@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-for-tickets">1025. Minimum Cost For Tickets</a></h2><h3>Medium</h3><hr><p>You have planned some train traveling one year in advance. The days of the year in which you will travel are given as an integer array <code>days</code>. Each day is an integer from <code>1</code> to <code>365</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-for-tickets">Minimum Cost For Tickets</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have planned some train traveling one year in advance. The days of the year in which you will travel are given as an integer array <code>days</code>. Each day is an integer from <code>1</code> to <code>365</code>.</p>
 
 <p>Train tickets are sold in <strong>three different ways</strong>:</p>
 
