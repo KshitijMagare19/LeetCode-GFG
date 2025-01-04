@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences">2059. Unique Length-3 Palindromic Subsequences</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, return <em>the number of <strong>unique palindromes of length three</strong> that are a <strong>subsequence</strong> of </em><code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences">Unique Length-3 Palindromic Subsequences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>s</code>, return <em>the number of <strong>unique palindromes of length three</strong> that are a <strong>subsequence</strong> of </em><code>s</code>.</p>
 
 <p>Note that even if there are multiple ways to obtain the same subsequence, it is still only counted <strong>once</strong>.</p>
 
