@@ -224,6 +224,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0948-sort-an-array) |
@@ -264,6 +265,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -291,6 +293,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0040-combination-sum-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0624-maximum-distance-in-arrays) |
@@ -665,6 +668,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
