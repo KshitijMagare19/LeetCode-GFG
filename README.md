@@ -403,6 +403,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -796,6 +797,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3427-special-array-ii) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Game Theory
 |  |
 | ------- |
