@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/map-of-highest-peak">Map of Highest Peak</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer matrix <code>isWater</code> of size <code>m x n</code> that represents a map of <strong>land</strong> and <strong>water</strong> cells.</p>
+<h2><a href="https://leetcode.com/problems/map-of-highest-peak">1876. Map of Highest Peak</a></h2><h3>Medium</h3><hr><p>You are given an integer matrix <code>isWater</code> of size <code>m x n</code> that represents a map of <strong>land</strong> and <strong>water</strong> cells.</p>
 
 <ul>
 	<li>If <code>isWater[i][j] == 0</code>, cell <code>(i, j)</code> is a <strong>land</strong> cell.</li>
