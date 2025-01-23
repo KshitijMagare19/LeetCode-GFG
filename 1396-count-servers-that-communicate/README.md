@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-servers-that-communicate">1396. Count Servers that Communicate</a></h2><h3>Medium</h3><hr><p>You are given a map of a server center, represented as a <code>m * n</code> integer matrix&nbsp;<code>grid</code>, where 1 means that on that cell there is a server and 0 means that it is no server. Two servers are said to communicate if they are on the same row or on the same column.<br />
+<h2><a href="https://leetcode.com/problems/count-servers-that-communicate">Count Servers that Communicate</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a map of a server center, represented as a <code>m * n</code> integer matrix&nbsp;<code>grid</code>, where 1 means that on that cell there is a server and 0 means that it is no server. Two servers are said to communicate if they are on the same row or on the same column.<br />
 <br />
 Return the number of servers&nbsp;that communicate with any other server.</p>
 
