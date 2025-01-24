@@ -178,6 +178,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -251,6 +252,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0145-binary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -268,6 +270,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -282,6 +285,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
