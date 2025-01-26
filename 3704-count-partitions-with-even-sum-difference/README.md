@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference">3704. Count Partitions with Even Sum Difference</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference">Count Partitions with Even Sum Difference</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>A <strong>partition</strong> is defined as an index <code>i</code> where <code>0 &lt;= i &lt; n - 1</code>, splitting the array into two <strong>non-empty</strong> subarrays such that:</p>
 
