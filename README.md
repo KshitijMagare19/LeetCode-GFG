@@ -183,6 +183,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
@@ -263,6 +264,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -288,6 +290,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
