@@ -182,6 +182,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1558-course-schedule-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -261,6 +262,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1396-count-servers-that-communicate](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -278,6 +280,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1396-count-servers-that-communicate](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -290,6 +293,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
