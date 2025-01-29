@@ -178,6 +178,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -254,6 +255,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
@@ -275,6 +277,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
@@ -301,6 +304,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
