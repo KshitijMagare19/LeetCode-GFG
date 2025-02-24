@@ -189,6 +189,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2803-modify-graph-edge-weights) |
@@ -275,6 +276,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -294,6 +296,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1558-course-schedule-iv](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -414,6 +417,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -713,6 +717,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3058-maximum-number-of-k-divisible-components) |
