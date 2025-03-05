@@ -604,6 +604,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
