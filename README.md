@@ -508,6 +508,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -698,6 +699,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [3451-string-compression-iii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -865,6 +867,7 @@ Collection of LeetCode & GeeksForGeek questions to ace the coding interview! - C
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KshitijMagare19/LeetCode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
 | ------- |
